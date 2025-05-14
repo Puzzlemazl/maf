@@ -20,5 +20,6 @@
     ],
     "price_usd": 2000,
     "price_stars": 2000,
-    "price_coins": 1000
+    "price_coins": 1000,
+	"metadata": "21/metadata.json"
 }
